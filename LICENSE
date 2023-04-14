@@ -1,0 +1,70 @@
+/*******************************************************************************
+** Menno van Zaanen
+** menno@ics.mq.edu.au    2005-
+********************************************************************************
+** Filename: LICENSE
+********************************************************************************
+** This file is part of the DEMOCRAT package.
+********************************************************************************
+*******************************************************************************/
+
+
+Software License
+
+Downloading and using the DEMOCRAT software package implies that
+you accept the following license terms:
+
+Macquarie University (henceforth ``Licensers'') grant you, the
+registered user (henceforth ``User'') the non-exclusive license to
+download a single copy of the DEMOCRAT software code and related
+documentation (henceforth jointly referred to as ``Software'') and to
+use the copy of the code and documentation solely in accordance with
+the following terms and conditions:
+
+1. The license is only valid when you register as a user. If you have
+obtained a copy without registration, you must immediately register by
+sending an e-mail to menno@ics.mq.edu.au.
+2. User may only use the Software for educational or non-commercial
+research purposes.
+3. Users may make and use copies of the Software internally for their
+own use.
+4. Without executing an applicable commercial license with Licensers,
+no part of the code may be sold, offered for sale, or made accessible
+on a computer network external to your own or your organization's in
+any format; nor may commercial services utilizing the code be sold or
+offered for sale. No other licenses are granted or implied.
+5. Licensers have no obligation to support the Software it is
+providing under this license. To the extent permitted under the
+applicable law, Licensers are licensing the Software "AS IS", with no
+express or implied warranties of any kind, including, but not limited
+to, any implied warranties of merchantability or fitness for any
+particular purpose or warranties against infringement of any
+proprietary rights of a third party and will not be liable to you for
+any consequential, incidental, or special damages or for any claim by
+any third party.
+6. Under this license, the copyright for the Software remains the
+joint property of the ILK Research Group at Tilburg University.
+Except as specifically authorized by the above licensing agreement,
+User may not use, copy or transfer this code, in any form, in whole or
+in part.
+7. Licensers may at any time assign or transfer all or part of their
+interests in any rights to the Software, and to this license, to an
+affiliated or unaffiliated company or person.
+8. Licensers shall have the right to terminate this license at any
+time by written notice. User shall be liable for any infringement or
+damages resulting from User's failure to abide by the terms of this
+License.
+9. In publication of research that makes use of the Software, a
+reference to ``Menno van Zaanen'' should be given.
+
+For information about commercial licenses for the Software, contact
+menno@ics.mq.edu.au, or send your request in writing to
+
+Menno van Zaanen
+Division of Information and Communication Sciences (ICS)
+Department of Computing
+Macquarie University
+2109 North Ryde, NSW
+Australia
+
+/* end of file: LICENSE */
